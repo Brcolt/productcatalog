@@ -33,6 +33,7 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Site oficial do Spring](https://spring.io/)
 * [Site oficial do Spring Initialzr, para setup do projeto](https://start.spring.io/)
 * [Site oficial do GitHub](http://github.com/)
+  [Site Oficial do Elasticsearch](https://www.elastic.co/pt/)
 * [Documentação oficial do Lombok](https://projectlombok.org/)
 * [Documentação oficial do Map Struct](https://mapstruct.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
